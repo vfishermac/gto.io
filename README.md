@@ -1,2 +1,0 @@
-# gto.io
-GTO
